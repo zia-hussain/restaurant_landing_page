@@ -3,7 +3,7 @@
 
   Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a target="blank" href="https://restaurant-landing-page-eta-livid.vercel.app/"><strong>➥ Live Demo</strong></a>
+  <a target="_blank" href="https://restaurant-landing-page-eta-livid.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
